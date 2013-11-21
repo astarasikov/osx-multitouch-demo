@@ -1,0 +1,4 @@
+*.pro.user
+*.o
+*.moc
+TouchTest
